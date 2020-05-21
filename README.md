@@ -1,6 +1,8 @@
 # colegio
 
 * **Ignacio Silvestre Gentil**
+* **Fecha de nacimiento: 13/06/2000**
+
 JAVA: Jerarquía de clases
 
 **Proyecto Java para mostrar el trabajo con jerarquía de clases**.
