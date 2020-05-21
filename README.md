@@ -2,6 +2,7 @@
 
 * **Ignacio Silvestre Gentil**
 * **Fecha de nacimiento: 13/06/2000**
+* **IES Luis Velez de Guevara**
 
 JAVA: Jerarquía de clases
 
